@@ -18,7 +18,7 @@ def reverse_each_word(string)
 
 new_array.push(string.split(""))
 
-nw_array.each do |item|
+ne_array.each do |item|
 
     until i < 0
         reverse_array.push(item[i])
