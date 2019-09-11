@@ -1,3 +1,3 @@
 def reverse_each_word(string)
-string.each do [rever]
+string.each do [reverse]
 end
