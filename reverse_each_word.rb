@@ -25,6 +25,5 @@ new_array.each do |item|
         i -= 1
 end
 end
-
 reverse_array.join
 end
