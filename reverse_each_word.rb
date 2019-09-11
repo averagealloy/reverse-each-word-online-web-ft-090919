@@ -27,5 +27,4 @@ end
 end
 
 reverse_array.join
-
 end
