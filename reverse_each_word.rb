@@ -8,7 +8,7 @@ return new_array
 end
 
 
-def reverse(string)
+def reverse_each_word(string)
     temp_array = []
     reverse_array = []
 
