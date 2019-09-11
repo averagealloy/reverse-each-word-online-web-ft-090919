@@ -6,3 +6,25 @@ new_array << reverse.reverse_inplace!
 end
 return new_array
 end
+
+
+def reverse(string)
+    temp_array = []
+    reverse_array = []
+
+    i = string.length
+
+temp_array.push(string.split(""))
+
+temp_array.each do |item|
+
+    until i < 0
+        reverse_array.push(item[i])
+        i -= 1
+    end
+    #print reverse_array.inspect
+end
+
+reverse_array.join
+
+end
