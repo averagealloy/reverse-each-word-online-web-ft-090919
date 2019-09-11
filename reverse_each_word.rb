@@ -11,7 +11,7 @@ end
 
 
 def reverse_each_word(string)
-    new_array = []
+  new_array = []
 reverse_array = []
 
 i = string.length
