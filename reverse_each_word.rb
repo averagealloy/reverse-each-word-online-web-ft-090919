@@ -21,7 +21,7 @@ new_array.push(string.split(""))
 new_array.each do |item|
 
     until i < 0
-        reverse_array.push(item[i])
+reverse_array.push(item[i])
 i -= 1
 end
 end
