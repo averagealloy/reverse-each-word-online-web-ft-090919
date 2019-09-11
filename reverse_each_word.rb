@@ -1,2 +1,2 @@
 def reverse_each_word(string)
-  original
+  original_arra
