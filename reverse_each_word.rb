@@ -6,5 +6,5 @@ i = 0
 i += 1
 end
 
- return reversed_string
+return reversed_string
 end
