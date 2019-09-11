@@ -3,5 +3,5 @@ new_array
 string.each do [reverse]
 
 end
-return new_ar
+return new_array
 end
