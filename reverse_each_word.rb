@@ -24,7 +24,7 @@ new_array.each do |item|
         reverse_array.push(item[i])
         i -= 1
     end
-    #print reverse_array.inspect
+    #
 end
 
 reverse_array.join
