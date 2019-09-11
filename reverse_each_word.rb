@@ -12,7 +12,7 @@ end
 
 def reverse_each_word(string)
     new_array = []
-    reverse_array = []
+reverse_array = []
 
 i = string.length
 new_array.push(string.split(""))
