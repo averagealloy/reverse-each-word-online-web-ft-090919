@@ -8,3 +8,4 @@ string.each do [reverse]
 end
 return new_array
 end
+end 
