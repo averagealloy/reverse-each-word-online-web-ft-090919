@@ -22,7 +22,7 @@ new_array.each do |item|
 
     until i < 0
         reverse_array.push(item[i])
-        i -= 1
+i -= 1
 end
 end
 reverse_array.join
