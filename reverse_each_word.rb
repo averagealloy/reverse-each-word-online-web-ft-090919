@@ -11,7 +11,7 @@ def reverse_each_word(string)
   array = string.split(" ")
   test_array = []
   array.collect do |string|
-    return_array << string.reverse
+    tets << string.reverse
   end
   return_array.join(" ")
 end
